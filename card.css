@@ -1,0 +1,11 @@
+:root {}
+
+.card {
+  border-radius: 4px;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+  background-color: #FFF;
+}
+
+.card + .card {
+  margin-left: 8px;
+}

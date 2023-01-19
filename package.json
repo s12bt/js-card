@@ -1,0 +1,15 @@
+{
+  "name": "js-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s12bt@yuki_suzuki",
+  "license": "ISC",
+  "engines": {
+    "node": "^18.12.1",
+    "npm": ">= 7.7.0"
+  }
+}
